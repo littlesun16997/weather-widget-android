@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherWidget</string>
+    <string name="appwidget_text">Weather</string>
+    <string name="add_widget">Add widget</string>
+    <string name="temp">Temp</string>
+    <string name="city">City</string>
+    <string name="humid">H</string>
+    <string name="img_icon">Weather icon</string>
+    <string name="desc">Search the weather condition of a city</string>
+    <string name="hint">Type a city</string>
+    <string name="button">Submit</string>
+</resources>
